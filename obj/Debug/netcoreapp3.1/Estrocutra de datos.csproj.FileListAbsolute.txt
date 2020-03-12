@@ -1,0 +1,11 @@
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\bin\Debug\netcoreapp3.1\Estrocutra de datos.exe
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\bin\Debug\netcoreapp3.1\Estrocutra de datos.deps.json
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\bin\Debug\netcoreapp3.1\Estrocutra de datos.runtimeconfig.json
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\bin\Debug\netcoreapp3.1\Estrocutra de datos.runtimeconfig.dev.json
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\bin\Debug\netcoreapp3.1\Estrocutra de datos.dll
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\bin\Debug\netcoreapp3.1\Estrocutra de datos.pdb
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\obj\Debug\netcoreapp3.1\Estrocutra de datos.csprojAssemblyReference.cache
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\obj\Debug\netcoreapp3.1\Estrocutra de datos.AssemblyInfoInputs.cache
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\obj\Debug\netcoreapp3.1\Estrocutra de datos.AssemblyInfo.cs
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\obj\Debug\netcoreapp3.1\Estrocutra de datos.dll
+C:\Users\jose_\Documents\Programacion\Estrocutra de datos\obj\Debug\netcoreapp3.1\Estrocutra de datos.pdb
